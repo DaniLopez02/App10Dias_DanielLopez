@@ -1,0 +1,69 @@
+<resources>
+
+
+    <string name="fraseEnlace">Enlace a su musica</string>
+
+    <string name="app_name">App10Dias</string>
+    <string name="CompositorName_1">Johann Sebastian Bach</string>
+    <string name="CompositorName_2">Wolfgang Amadeus Mozart</string>
+    <string name="CompositorName_3">Ludwig van Beethoven</string>
+    <string name="CompositorName_4">Serguéi Vasílievich Rachmáninov</string>
+    <string name="CompositorName_5">Pyotr Ilyich Tchaikovsky</string>
+    <string name="CompositorName_6">Johannes Brahms</string>
+    <string name="CompositorName_7">Frederic Chopin</string>
+    <string name="CompositorName_8">Franz Joseph Haydn</string>
+    <string name="CompositorName_9">Claude Debussy</string>
+    <string name="CompositorName_10">Erik Satie</string>
+
+
+    <string name="Fecha_1">(1685-1750)</string>
+    <string name="Fecha_2">(1756-1791)</string>
+    <string name="Fecha_3">(1770-1827)</string>
+    <string name="Fecha_4">(1873-1943)</string>
+    <string name="Fecha_5">(1840-1893)</string>
+    <string name="Fecha_6">(1833-1897)</string>
+    <string name="Fecha_7">(1810-1849)</string>
+    <string name="Fecha_8">(1732-1809)</string>
+    <string name="Fecha_9">(1862-1918)</string>
+    <string name="Fecha_10">(1866-1925)</string>
+
+
+    <string name="Estilo_1">Barroco</string>
+    <string name="Estilo_2">Clásico</string>
+    <string name="Estilo_3">Clásico/Romántico</string>
+    <string name="Estilo_4">Postromántico</string>
+    <string name="Estilo_5">Romántico</string>
+    <string name="Estilo_6">Romántico</string>
+    <string name="Estilo_7">Romántico</string>
+    <string name="Estilo_8">Clásico</string>
+    <string name="Estilo_9">Impresionista</string>
+    <string name="Estilo_10">Impresionista</string>
+
+
+
+    <string name="frase_1">La música es una armonía agradable para el honor de Dios y las delicias permisibles del alma.</string>
+    <string name="frase_2">La música no está en las notas sino en el silencio entre ellas.</string>
+    <string name="frase_3">La música es la entrada incorpórea al mundo superior del conocimiento que comprende la humanidad, pero que la humanidad no puede comprender.</string>
+    <string name="frase_4">La música es suficiente para toda una vida, pero una vida no es suficiente para toda la música.</string>
+    <string name="frase_5">En verdad, si no fuera por la música, habría más razones para volverse loco.</string>
+    <string name="frase_6">Componer no es difícil, lo complicado es dejar caer bajo la mesa las notas superfluas. Sin artesanía, la inspiración es una simple caña sacudida por el viento.</string>
+    <string name="frase_7">No hay nada más odioso que la música sin significado oculto.</string>
+    <string name="frase_8">Desde que el hombre existe ha habido música. Pero también los animales, los átomos y las estrellas hacen música</string>
+    <string name="frase_9">La música es la aritmética de los sonidos, como la óptica es la geometría de la luz. Las obras de arte hacen las normas; las reglas no hacen las obras de arte.</string>
+    <string name="frase_10">La música no tiene fronteras, puede conectar a las personas de diferentes culturas y lenguajes</string>
+
+
+    <string name="enlace_1">https://youtu.be/uiTrB-zA7bc?si=7IEsUL1jgfm8TPVd</string>
+    <string name="enlace_2">https://youtu.be/Rb0UmrCXxVA?si=erzdhrgiA-UXc3zB</string>
+    <string name="enlace_3">https://youtu.be/W-fFHeTX70Q?si=FV8vKRkZ58gkY7EY</string>
+    <string name="enlace_4">https://youtu.be/0llPfdJCSPQ?si=oOVP_jPtJN1i8UPA</string>
+    <string name="enlace_5">https://youtu.be/DG87oy53_zM?si=9bwI-J5qNcpVHOMm</string>
+    <string name="enlace_6">https://youtu.be/zKrxesI3ziE?si=caDabgk7V8h4K0x3</string>
+    <string name="enlace_7">https://youtu.be/Jn09UdSb3aA?si=_LqpMEcvUayr54X1</string>
+    <string name="enlace_8">https://youtu.be/kmEmwafLMJ4?si=63wNpm_NF3T0yiCK</string>
+    <string name="enlace_9">https://youtu.be/T3AuplcGNyo?si=GmDTpvFisW-411q_</string>
+    <string name="enlace_10">https://youtu.be/2Xfg7HXKqgw?si=a4cU8ZR4MsqrJ-Qc</string>
+
+
+
+</resources>
